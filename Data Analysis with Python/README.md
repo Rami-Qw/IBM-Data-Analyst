@@ -32,7 +32,8 @@
 
 ### Solutions:
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q1.PNG">
+  <img width="100%" height="100%" src="(https://github.com/Rami-Qw/IBM-Data-Analyst/blob/main/Data%20Analysis%20with%20Python/Python%20and%20Statistics/Q1.png
+)">
 </p>
 
 <p align="center">
