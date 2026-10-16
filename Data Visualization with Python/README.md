@@ -87,19 +87,19 @@ The main goal of this Data Visualization with Python course is to teach you how 
 <img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot(1).png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot (1).png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot.png(2)" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot (2).png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot.png(3)" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot (3).png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot.png(4)" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot (4).png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot.png(5)" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot (5).png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot.png(6)" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Basic_Plotly/newplot (6).png" width=60% height=60%>
