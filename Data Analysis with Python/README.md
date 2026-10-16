@@ -36,33 +36,37 @@
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q2.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q2.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q3.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q3.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q4.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q4.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q5.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q5.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q6.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q6.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q7.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q7.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q8.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q8.png">
 </p>
 
 <p align="center">
-  <img width="100%" height="100%" src="/Data%20Analysis%20With%20Python/IMG/Q9.PNG">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q9.png">
+</p>
+
+<p align="center">
+  <img width="100%" height="100%" src="/Data Analysis with Python/Python and Statistics/Q10.png">
 </p>
