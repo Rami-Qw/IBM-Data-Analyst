@@ -30,55 +30,55 @@ The main goal of this Data Visualization with Python course is to teach you how 
 <img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_4.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_62_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_62_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_77_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_6.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_86_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_7.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_92_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_8.png" width=60% height=60%>
 
 ---
 
 * ### **Pie Charts, Box Plots, Scatter Plots and Bubble-Plots**
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_26_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_26_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_28_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_28_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_36_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_36_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_47_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_47_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_51_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_51_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_54_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_54_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_67_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_67_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_78_0.png" width=60% height=60%>
+<img src="Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_78_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="https://github.com/ndleah/IBM-Data-Analyst-Professional/blob/main/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_83_0.png" width=60% height=60%>
+<img src="Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_83_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_90_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_90_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_98_1.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_98_1.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_105_1.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots/output_105_1.png" width=60% height=60%>
 
 ---
 
