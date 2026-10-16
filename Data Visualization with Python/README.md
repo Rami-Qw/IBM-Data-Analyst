@@ -9,25 +9,25 @@ The main goal of this Data Visualization with Python course is to teach you how 
 
 * ### **Introduction to Matplotlib and Line Plots**
 <p align="center">
-<img src="Data%20Visualization%20with%20Python/IMG/Introduction-to-Matplotlib-and-Line-Plots/output_91_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Introduction-to-Matplotlib-and-Line-Plots/output_91_0.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Introduction-to-Matplotlib-and-Line-Plots/output_103_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Introduction-to-Matplotlib-and-Line-Plots/output_103_0.png" width=60% height=60%>
 
 ---
 
 * ### **Exercise Area Plots Histograms and Bar Charts**
 <p align="center">
-<img src="/DataVisualization%20with%20Python/charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_41_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_1.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_43_0.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_2.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_46_1.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_3.png" width=60% height=60%>
 
 <p align="center">
-<img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_51_1.png" width=60% height=60%>
+<img src="/Data Visualization with Python/Charts/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_4.png" width=60% height=60%>
 
 <p align="center">
 <img src="/Data%20Visualization%20with%20Python/IMG/Exercise-Area-Plots-Histograms-and-Bar-Charts/output_62_0.png" width=60% height=60%>
