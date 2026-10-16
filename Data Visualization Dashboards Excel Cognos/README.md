@@ -8,24 +8,24 @@ This course covers some of the first steps in the development of data visualizat
 * ### **Excel Dashboard**
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/W2Dashboard.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/W2Dashboard.png" width=100% height=100%>
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Excel_FA.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/Excel_FA.png" width=100% height=100%>
 
 * ### **IBM Cognos Dashboard**
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_1.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/Cognos_Basic_1.png" width=100% height=100%>
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Basic_2.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/Cognos_Basic_2.png" width=100% height=100%>
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_Advanced.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/Cognos_Advanced.png" width=100% height=100%>
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_1.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/Cognos_FA_1.png" width=100% height=100%>
 
 <p align="center">
-<img src="/Data%20Visualization%20Dashboards%20Excel%20Cognos/IMG/Cognos_FA_2.PNG" width=100% height=100%>
+<img src="/Data Visualization Dashboards Excel Cognos/Graphs/Cognos_FA_2.png" width=100% height=100%>
